@@ -9,7 +9,7 @@ Once the walls have been drawn, press spacebar to begin the search. The algorith
 
 When exiting the application, exit through the TKinter window. Exiting through the Pygame window crashes the application and I haven't been able to fix this issue.
 
-
+Included is a Pathfinding Algorithms.exe file which allows you to download an executable of the program. A "Pathfinding Algorithms" folder will appear in the location of installation and in that folder is a "Main.exe" executable which runs the program.
 
 
 As this is my first project in Python, there may be a some unorthodox code, such as the way I use global variables and structure the different classes.
