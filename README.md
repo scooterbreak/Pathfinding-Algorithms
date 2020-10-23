@@ -1,4 +1,4 @@
-# Pathfinding-Algorithms
+# Pathfinding Algorithms
 This program uses Python, Tkinter, and Pygame to allow users to input start and end coordinates and interact with a grid that visualizes the pathfinder. Algorithms include a depth-first search, breadth-first search, Dijkstra’s Algorithm, and an A* algorithm. As the program is meant to visualize algorithms in real-time, this implementation may be slightly different from traditional implementations. One of the challenges of this program was figuring out how to progress through the algorithm while continuously refreshing Pygame's graphical interface.
 
 ## INSTRUCTIONS
